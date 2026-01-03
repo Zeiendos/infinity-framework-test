@@ -1,257 +1,130 @@
-# Framework of the Limitations on Infinity
+# Infiniology: A Narrative-Driven Worldbuilding Framework
 
-> **A Metaphysical Construction Kit for Worldbuilding, Narrative Design, and Cosmological Exploration**
+**By Zeiendos | © 2026 Zeiendos Zolton**
+
+[Infiniology Hub](https://zeiendos.github.io/worldbuilding-with-infiniology/)
+---
+
+## What is Infiniology?
+
+Infiniology is a narrative-driven worldbuilding framework that uses the concepts of a foundational **Infinity**, a structuring **Limit**, and dynamic **Dualities** to create fictional worlds, characters, and stories. It provides a systematic approach to understanding how infinite creative potential can be shaped into coherent, meaningful narratives.
+
+---
+
+## Quick Start
+
+This repository contains a complete working implementation of the Infiniology framework, including:
+
+- **Interactive Hub** (`index.html`) - The main entry point with navigation to all sections
+- **Primordial Dualities** (`Worldbuilding-framework.html`) - The six core dualities that govern existence
+- **Core Framework** (`infiniology-narative-framework.html`) - The foundational concepts of Infinity, Limit, and Dualities
+- **Mythological Framework** (`mythological-framework.html`) - System for creating coherent mythologies and religions
+- **Narrative Systems** (`narrative-systems.html`) - Magic, cultivation, and profession systems
+
+## Framework Overview
+
+### The Three Pillars
+
+1. **Infinity** - The boundless source of all creative potential
+2. **Limit** - The structuring principle that transforms potential into reality
+3. **Dualities** - The opposing forces that create dynamic tension and narrative possibility
+
+### The Six Primordial Dualities
+
+- **Life & Death** - The fundamental cycle of existence
+- **Matter & Spirit** - The foundation of reality
+- **Light & Dark** - Knowledge and mystery
+- **Order & Chaos** - Structure and entropy
+- **Male & Female** - The dance of creation
+- **Love & Hate** - Connection and division
+
+### The Writer's Role
+
+In the Infiniological framework, the Writer transcends the role of mere storyteller to become the **One Past Infinity**—the conscious architect who:
+
+- **Establishes Limits** through creative choices, rules, and boundaries
+- **Shapes Reality** through lore, characters, and narrative will
+- **Maintains Balance** between opposing forces for compelling stories
+
+---
+
+## Applications
+
+### Worldbuilding
+- Create coherent magic systems based on Law Bit manipulation
+- Design balanced cosmologies with meaningful dualities
+- Develop cultures that reflect your world's fundamental forces
+
+### Character Development
+- Use duality balance/imbalance as character motivation
+- Create character arcs that mirror cosmic struggles
+- Design powers and abilities that reflect internal conflicts
+
+### Narrative Structure
+- Build plots around restoration of cosmic balance
+- Create themes that explore opposing forces
+- Design conflicts that test the limits of your world's laws
+
+---
+
+## File Structure
+
+```
+worldbuilding-with-infiniology/
+├── ogfiles                             # HTML files brought through the refining of my ideas and concepts with AI's knowledge
+├── index.html                          # Main hub and navigation
+├── Worldbuilding-framework.html        # The six primordial dualities
+├── infiniology-narative-framework.html # Core framework concepts
+├── mythological-framework.html         # Mythology creation system
+├── narrative-systems.html              # Magic, cultivation, professions
+├── README.md                           # This file
+```
+
+---
+
+## Creator's Note
+
+> *"There may never be an end to the depth of Infiniology. The more you learn, the less you know. This was originally just a project to get a mythology into someone else's world. A world where a character without a soul was told he couldn't use magic. May this framework explain the fundamentals of what makes a world a reality. While leading you to the creation of in-depth stories shaped by your own imagination."*
 > 
-> *Conceptual Framework by Zolton (Zeiendos)*
+> **- Zeiendos**
 
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+This framework emerged from a simple question: *"How does infinity become structured into finite reality?"* What started as an exploration of limitations and creative potential has grown into a comprehensive system for understanding how we build worlds and tell stories.
 
----
+Infiniology is not meant to be a rigid set of rules, but rather a flexible toolkit that can be adapted to any creative project. Whether you're building a fantasy realm, designing a game system, or simply exploring the nature of narrative, I hope these concepts provide you with new ways to think about the relationship between creator and creation.
 
-## 🎯 Purpose & Philosophy
-
-**This is not a religious doctrine or scientific theory.** This is a systematic framework for building coherent fictional universes, magic systems, and narrative cosmologies.
-
-The *Framework of the Limitations on Infinity* synthesizes patterns from philosophy, physics, and world mythology to provide writers, game designers, and worldbuilders with a rational foundation for creating internally consistent fantasy worlds. Think of it as a "cosmic physics engine" for narrative construction—flexible rules that generate logically sound, thematically rich stories.
-
-### What This Framework Does:
-✅ Provides clear mechanics for magic systems and cosmic lore  
-✅ Creates logical consistency across cultures, religions, and power systems  
-✅ Generates deep, interconnected worldbuilding that feels authentic  
-✅ Offers adaptable templates for any genre (fantasy, sci-fi, urban fantasy)  
-
-### What This Framework Does NOT Do:
-❌ Claim to be a true spiritual or scientific account of reality  
-❌ Replace actual religious practice or belief systems  
-❌ Appropriate cultures when used respectfully in fictional contexts  
-❌ Dictate morals or beliefs for real people  
+The framework will continue to evolve as I discover new applications and connections to other systems. I encourage you to experiment, adapt, and expand upon these ideas in your own work.
 
 ---
 
-## 🌌 The Infinity Framework: Core Principles
+## License & Usage
 
-The framework explores reality through five interconnected layers:
+This project is licensed under the MIT License - see the [License Section](index.html#license) for details.
 
-### **1. The Cosmic Womb (The Higgs Field Redefined)**
-The Source from which all manifestation emerges—not merely mass, but the fundamental bridge between potential and existence. In your world, this becomes:
-- **The Primordial Ocean** (fantasy)
-- **The Quantum Foam** (sci-fi)
-- **The Collective Unconscious** (urban fantasy)
+**What You CAN Do:**
+- ✅ Use the Infiniology framework in personal and commercial projects
+- ✅ Modify, adapt, and extend the framework for your needs
+- ✅ Create derivative works and build upon the concepts
+- ✅ Include the framework in educational materials and courses
+- ✅ Share and distribute the framework with others
 
-### **2. The Language of Duality**
-Reality expresses itself through complementary principles that require each other for existence:
-- **Mass-Energy** (form vs. potential)
-- **Order-Chaos** (stability vs. change)
-- **Light-Darkness** (revelation vs. concealment)
-- **Self-Other** (individual vs. collective)
-- **Time-Space** (experience framework)
-- **Finite-Infinite** (boundary vs. boundlessness)
-
-### **3. Perception and Truth**
-Light is not merely illumination but the fundamental tool that enables consciousness to experience reality. Different beings perceive different aspects of the same cosmos—your world's species can have unique perceptual frameworks that feel authentic because they stem from the same underlying principles.
-
-### **4. Infinity and Harmony**
-Infinity is not chaos but the visible signature of harmony at work. Limitation makes the infinite possible. This becomes your world's magic system constraint—power without balance leads to destruction.
-
-### **5. The Six Dualities as Stabilizing Forces**
-No single principle can maintain reality alone. Your world's conflicts, alliances, and cosmic struggles emerge from the dynamic tension between these six complementary pairs.
+**Attribution:**
+When using or referencing the Infiniology framework, please include attribution such as:
+- "Based on the Infiniology framework by Zeiendos"
+- "Using concepts from Infiniology (© 2026 Zeiendos)"
+- "Inspired by the Infiniological framework"
 
 ---
 
-## ⚡ Quick Start: Building Your First World
+## Community & Connection
 
-### The 4-Layer Cosmic Stack
+**Main Repository:** https://github.com/Zeiendos/worldbuilding-with-infiniology  
+**Original Work:** https://github.com/Zeiendos/limitations-of-infinity  
+**Contact:** zeiendosinfinity@gmial.com
 
-**THE SOURCE (The "Why")**  
-Your universe's primordial principle. Examples:
-- "The Void That Dreams" (abstract pantheon)
-- "The Singularity" (sci-fi with metaphysics)
-- "The Great Root" (nature-based magic)
-
-**THE PRIMORDIALS (The "How")**  
-First dualities that emanate from The Source:
-- Order/Chaos (classic fantasy)
-- Creation/Entropy (cosmic sci-fi)
-- Mind/Matter (psionic systems)
-
-**THE EMANANTS (The "What")**  
-Everything in your world—gods, magic, matter, life.
-
-**THE SELF (The "Who")**  
-Conscious beings who can interact with and manipulate Emanants.
-
-### 5-Minute World Sketch Template
-```
-Source: "The Harmonic Void" (pre-existence vibration)
-Primordials: Harmony vs. Dissonance
-Emanants: 
-- Gods are "chords" of the cosmic sound
-- Magic is "tuning" reality
-- Dragons are pure Dissonance made flesh
-Self: A deaf bard who "hears" through touch
-
-Magic System: Over-tuning causes madness (balance constraint)
-```
+I welcome feedback, collaboration opportunities, and discussions about how Infiniology can be applied to different creative projects. Whether you're a writer, game designer, educator, or simply curious about narrative theory, I'd love to hear about your experiences with the framework.
 
 ---
 
-## 🔧 Core Components for Writers
+*"You create by limiting. Every rule you establish, every law you define, every boundary you set—these are not constraints but the very tools that transform infinite possibility into tangible reality."*
 
-### **The Higgs Field as Narrative Catalyst**
-In your world, the Higgs Field equivalent becomes the mechanism that transforms potential into reality. This is your magic system's "physics":
-- **Fantasy**: Ley lines, mana pools, divine blessings
-- **Sci-fi**: Quantum fields, dark matter manipulation, zero-point energy
-- **Urban**: Collective belief, emotional resonance, symbolic power
-
-### **The Authority Principle**
-Universal laws that govern without domination. Your world's magic has rules not because someone decreed them, but because reality functions according to consistent principles. This creates internal logic that readers can intuitively grasp.
-
-### **Mass-Energy as Magic System Foundation**
-Magic becomes the transformation between states—energy to matter, potential to actuality. The cost and limitations of magic emerge from this principle:
-- What does it cost to transform energy into form?
-- What happens when the transformation is unstable?
-- Who can perform these transformations and why?
-
-### **Order-Chaos as Cultural Driver**
-Different cultures in your world will interpret Order and Chaos through their own moral frameworks. What one civilization sees as lawful structure, another may view as oppressive rigidity. This generates authentic cultural conflict without simplistic good vs. evil binaries.
-
-### **Light-Darkness as Revelation Mechanism**
-Some truths in your world remain hidden not because they're forbidden, but because consciousness can only integrate revelation gradually. This creates natural story progression—characters grow into deeper understanding as they develop.
-
-### **Infinity as Harmony's Signature**
-The infinite in your world is not chaotic boundlessness but what emerges when harmony places elegant constraints upon itself. This becomes your world's metaphysical aesthetic—beauty through balanced limitation.
-
----
-
-## 📖 Application Examples
-
-### **Example 1: High Fantasy Novel**
-**WORLD**: Aetherfall  
-**Source**: "The Unstruck Sound"—primordial vibration before existence  
-**Primordials**: Harmony vs. Dissonance  
-**Emanants**:
-- Gods are "chords" of the Sound
-- Magic is "tuning" reality with voice or instrument
-- Dragons are pure Dissonance made flesh
-- Ley lines are harmonic frequencies in the earth
-
-**Self**: A deaf bard who "hears" the Source through vibration  
-**Magic Costs**: Over-tuning shatters reality (madness). Dissonance magic is powerful but corrupts the user's "melody."
-
-### **Example 2: Sci-Fi RPG Setting**
-**WORLD**: The Void Between  
-**Source**: "The Singularity"—pre-Big Bang information density  
-**Primordials**: Expansion vs. Contraction  
-**Emanants**:
-- FTL travel rides Expansion waves
-- Black holes are Contraction nodes
-- AI gods are patterns that survived the Big Bang
-- Dark matter is "frozen" Expansion energy
-
-**Self**: Post-humans who can exist in both states simultaneously  
-**Game Mechanic**: Players manage "Flux"—too much Expansion causes destabilization; too much Contraction leads to collapse.
-
-### **Example 3: Urban Fantasy Series**
-**WORLD**: The Echo Beneath  
-**Source**: "The Collective Unconscious"—Jungian archetypal reservoir  
-**Primordials**: Ego vs. Shadow  
-**Emanants**:
-- Magic is "individuation"—integrating archetypes
-- Vampires are pure Shadow projection
-- Ley lines are ego-boundaries of the city-mind
-- Werewolves are Ego/Shadow integration gone wrong
-
-**Self**: Therapists who secretly treat supernatural patients  
-**Narrative Hook**: Every spell risks strengthening the Shadow, which can manifest as personal demons.
-
----
-
-## 🛡️ Respectful Use Guidelines
-
-**DO:**
-✅ Research deeply when drawing from real traditions  
-✅ Credit inspirations: "Inspired by Taoist cosmology" not "Taoist cosmology simplified"  
-✅ Transform for fiction—your version should be adapted for your world's needs  
-✅ Hire sensitivity readers if publishing  
-
-**DON'T:**
-❌ Present simplified versions as "the real" tradition  
-❌ Use sacred terms for trivial mechanics without context  
-❌ Ignore living practitioners—traditions aren't historical artifacts  
-❌ Cherry-pick only the "cool" parts without understanding the system  
-
-**Golden Rule**: If you wouldn't write about a living religion's god as a game boss without research, don't do it with living traditions here.
-
----
-
-## ❓ FAQ
-
-**Q: Is this a real religion?**  
-A: No. This is a creative framework—a set of tools for building fictional worlds. Using it doesn't require belief, only imagination.
-
-**Q: Can I use this if I'm religious?**  
-A: Absolutely. Many religious writers use frameworks like this to keep their fiction's internal logic consistent separate from their faith.
-
-**Q: What if my world needs more than two Primordials?**  
-A: The dualities are starting templates. You can have multiple Primordial pairs or even a triadic structure (Creator/Preserver/Destroyer). The framework flexes.
-
-**Q: How is this different from just making stuff up?**  
-A: "Making stuff up" can lead to inconsistency. This gives you a consistent foundation—like how physics constrains but enables endless creativity in engineering.
-
-**Q: Will this make my world feel derivative?**  
-A: Only if you copy-paste. The framework is a skeleton—you provide the flesh, culture, characters, and unique twists.
-
----
-
-## 📚 References
-
-**For Worldbuilding:**
-- *The Hero with a Thousand Faces* (Joseph Campbell) – Monomyth structure
-- *The Encyclopedia of Fantasy* (Clute & Grant) – Fantasy tropes
-- *On Worldbuilding* (Alexander) – Systematic approach
-
-**For Mythology Research:**
-- Sacred-Texts.com – Primary sources
-- Theoi Greek Mythology – Academic database
-- Digital Sanskrit Buddhist Canon – Primary texts
-
-**For Magic Systems:**
-- Sanderson's Laws (Brandon Sanderson) – Hard magic principles
-- Thaumocracy – Magic system design blog
-
----
-
-## 🤝 Contributing
-
-This framework is open-source under **CC BY-SA 4.0**. We welcome:
-- World examples: Share your world's cosmology
-- Magic systems: How you applied the rules
-- Critiques & expansions: Respectful improvements
-- Cultural consultation: Experts correcting misrepresentations
-
-Please read `CONTRIBUTING.md` for details on our code of conduct.
-
-**Code of Conduct**: Be respectful of traditions, generous with credit, and remember—this is for building fictional worlds, not debating real beliefs.
-
----
-
-## ⚠️ Final Disclaimer
-
-**This is a creative tool. Use it responsibly.**
-
-The author is not a spiritual authority, religious leader, or scientist. We are writers and worldbuilders who noticed patterns across stories and codified them into a system. This framework is offered in the spirit of collaborative creativity, not dogmatic truth.
-
-If you're seeking spiritual guidance, consult qualified teachers within authentic traditions. If you're seeking scientific knowledge, consult peer-reviewed research. If you're seeking to build a cool fantasy world—you're in the right place.
-
----
-
-## 📜 License & Attribution
-
-**Original Concept & Structure**: Zolton (Zeiendos)  
-**Developed With**: AI assistance for research synthesis  
-**License**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)  
-**GitHub Repository**: [https://github.com/zeiendos/infinity-framework](https://github.com/zeiendos/infinity-framework)
-
----
-
-*"The cosmos is not a completed masterpiece but an ongoing creation—a living artwork that paints itself anew in every moment through the dance of dualities."* - The Framework of the Limitations on Infinity
+**Welcome to Infiniology. May your worlds be boundless, and your limits meaningful.**
